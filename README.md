@@ -46,7 +46,7 @@ CodeAlpha_BookLibrary/
 2. **Open the project**
 
    * Just open `index.html` in your browser
-   * Make sure all files (`style.css`, `script.js`) are in the same directory
+   * Make sure all files (`book.css`, `book.js`) are in the same directory
 
 ---
 
