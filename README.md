@@ -1,27 +1,54 @@
 # 📚 BookLibrary – CodeAlpha Internship Project
 
-**BookLibrary** is a simple yet elegant book management system developed as part of the **CodeAlpha Internship**. It allows users to manage a personal library, including adding, viewing, and removing books with ease. This project demonstrates foundational concepts in Python and object-oriented programming.
+**BookLibrary** is a modern and responsive web application developed as part of the **CodeAlpha Internship**. It allows users to manage a personal digital library—add books, view the collection, and remove entries—through a sleek and interactive user interface.
 
 ---
 
-## 🚀 Features
+## 🌟 Features
 
-* Add new books with title, author, and publication year
-* Display the list of all books
-* Search and delete a book from the library
-* Simple CLI interface
-* Clean and readable code with comments
-
----
-
-## 🛠️ Technologies Used
-
-* **Python 3**
-* **Object-Oriented Programming (OOP)**
-* **Basic CLI Interaction**
+* 📘 Add a new book with title, author, and year
+* 📑 View all books in a stylish card layout
+* ❌ Delete books from the collection
+* 💻 Fully responsive design for mobile and desktop
+* 🎨 Clean UI using CSS animations and modern layout
 
 ---
 
+## 🛠️ Tech Stack
+
+* **HTML5** – Markup structure
+* **CSS3** – Styling and responsiveness
+* **JavaScript (Vanilla)** – Core logic and DOM manipulation
+
+---
+
+## 📁 Project Structure
+
+```
+CodeAlpha_BookLibrary/
+├── index.html        # Main webpage
+├── book.css         # All styles
+├── book.js         # JavaScript logic
+└── README.md         # Project documentation
+```
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Maha-1384/CodeAlpha_BookLibrary.git
+   cd CodeAlpha_BookLibrary
+   ```
+
+2. **Open the project**
+
+   * Just open `index.html` in your browser
+   * Make sure all files (`style.css`, `script.js`) are in the same directory
+
+---
 
 ## 👩‍💻 Author
 
@@ -29,8 +56,8 @@
 
 ---
 
-## 📝 License
+## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
