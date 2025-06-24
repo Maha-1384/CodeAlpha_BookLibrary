@@ -1,5 +1,3 @@
----
-
 # 📚 BookLibrary – CodeAlpha Internship Project
 
 **BookLibrary** is a simple yet elegant book management system developed as part of the **CodeAlpha Internship**. It allows users to manage a personal library, including adding, viewing, and removing books with ease. This project demonstrates foundational concepts in Python and object-oriented programming.
